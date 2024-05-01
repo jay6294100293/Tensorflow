@@ -44,22 +44,22 @@ To run these assignments locally, follow these steps:
 
 The repository is organized as follows:
 
-deep-learning-assignments/
-│
-├── assignment1/
-│ ├── code.py
-│ 
-├── assignment2/
-│ ├── code.py
-│
-├── assignment3/
-│ ├── code.py
-│
-├── assignment4/
-│ ├── code.py
-│
-├── requirements.txt
-└── README.md
+## deep-learning-assignments/
+## │
+## ├── assignment1/
+## │ ├── code.py
+## │ 
+## ├── assignment2/
+## │ ├── code.py
+## │
+## ├── assignment3/
+## │ ├── code.py
+## │
+## ├── assignment4/
+## │ ├── code.py
+## │
+## ├── requirements.txt
+## └── README.md
 
 ## Contributing
 
