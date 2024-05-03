@@ -1,4 +1,4 @@
-# Deep Learning Assignments
+# Deep Learning
 
 Welcome to the Deep Learning Assignments repository! This repository contains a series of assignments focused on various aspects of deep learning. Whether you're a beginner or an experienced practitioner, these assignments are designed to help you learn and practice fundamental and advanced concepts in deep learning.
 
